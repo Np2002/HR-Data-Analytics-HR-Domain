@@ -16,12 +16,12 @@ Uncleaned Dataset of month May:
 
 
 Uncleaned Dataset of month June:
-![dataset3](https://github.com/Np2002/HR-Data-Analytics-HR-Domain/blob/main/june%20month%20dataset.png)
+![dataset3](https://github.com/Np2002/HR-Data-Analytics-HR-Domain/blob/main/june%20month%20dataset%20.png)
 
 
 
 cleaned Dataset:
-![cleaned_dataset](https://github.com/Np2002/HR-Data-Analytics-HR-Domain/blob/main/cleaned%20dataset.png)
+![cleaned_dataset](https://github.com/Np2002/HR-Data-Analytics-HR-Domain/blob/main/cleaned%20dataset%20.png)
 
 
 
