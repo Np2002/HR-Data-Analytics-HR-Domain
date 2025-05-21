@@ -31,22 +31,22 @@ Welcome to my Power BI project titled **"Atliq Presence Insights"**, which focus
 - **Data Columns**: Name, Date, Attendance Status, Department (if included)
 
 Uncleaned Dataset of month April:
-![dataset1](assets\apr month dataset.png)
+![assets/apr month dataset.png](https://github.com/Np2002/HR-Data-Analytics-HR-Domain/blob/ffcfe6c3fcf17b14002d5bef623a6b40a09c6f40/assets/apr%20month%20dataset.png)
 
 
 
 Uncleaned Dataset of month May:
-![dataset2](assets\may month dataset.png)
+![assets\may month dataset.png](https://github.com/Np2002/HR-Data-Analytics-HR-Domain/blob/ffcfe6c3fcf17b14002d5bef623a6b40a09c6f40/assets/may%20month%20dataset.png)
 
 
 
 Uncleaned Dataset of month June:
-![dataset3](assets\june month dataset .png)
+![june month](https://github.com/Np2002/HR-Data-Analytics-HR-Domain/blob/ffcfe6c3fcf17b14002d5bef623a6b40a09c6f40/assets/june%20month%20dataset%20.png)
 
 
 
 cleaned Dataset:
-![cleaned_dataset](assets\cleaned dataset .png)
+![assets\cleaned dataset .png](https://github.com/Np2002/HR-Data-Analytics-HR-Domain/blob/ffcfe6c3fcf17b14002d5bef623a6b40a09c6f40/assets/cleaned%20dataset%20.png)
 
 
 ---
@@ -117,7 +117,7 @@ This project helped me:
 
 
 Final Dashboard Looks like :
-![dashboard](assets\dashboard screenshot.png)
+![assets\dashboard screenshot.png](https://github.com/Np2002/HR-Data-Analytics-HR-Domain/blob/ffcfe6c3fcf17b14002d5bef623a6b40a09c6f40/assets/dashboard%20screenshot.png)
 
 
 ---
@@ -134,8 +134,10 @@ Final Dashboard Looks like :
 ## 👤 Author
 
 **[Nidhi Kachhi]**  
-📧 Email:[haldkarnidhi@gmail.com](mailto:haldkarnidhi@gmail.com)   
+📧 Email:[haldkarnidhi@gmail.com](mailto:haldkarnidhi@gmail.com)  
+
 🌐 GitHub: [github.com/Np2002](https://github.com/Np2002)
+
 📎 LinkedIn: [linkedin.com/in/nidhi-kachhi](https://www.linkedin.com/in/nidhi-kachhi/)
 
 ---
