@@ -26,26 +26,26 @@ Welcome to my Power BI project titled **"Atliq Presence Insights"**, which focus
 
 - **Domain**: Human Resources / Workforce Analytics  
 - **Data Type**: Attendance logs (P for Present, A for Absent, WFH, SL)  
-- **Source**: Self-prepared synthetic dataset for learning purposes  
+- **Source**: CodeBasics
 - **Date Range**: May 2022 – June 2022  
-- **Data Columns**: Name, Date, Attendance Status, Department (if included)
+- **Data Columns**: Name, Date, Attendance Status
 
-Uncleaned Dataset of month April:
+**Uncleaned Dataset of month April:**
 ![assets/apr month dataset.png](https://github.com/Np2002/HR-Data-Analytics-HR-Domain/blob/ffcfe6c3fcf17b14002d5bef623a6b40a09c6f40/assets/apr%20month%20dataset.png)
 
 
 
-Uncleaned Dataset of month May:
+**Uncleaned Dataset of month May:**
 ![assets\may month dataset.png](https://github.com/Np2002/HR-Data-Analytics-HR-Domain/blob/ffcfe6c3fcf17b14002d5bef623a6b40a09c6f40/assets/may%20month%20dataset.png)
 
 
 
-Uncleaned Dataset of month June:
+**Uncleaned Dataset of month June:**
 ![june month](https://github.com/Np2002/HR-Data-Analytics-HR-Domain/blob/ffcfe6c3fcf17b14002d5bef623a6b40a09c6f40/assets/june%20month%20dataset%20.png)
 
 
 
-cleaned Dataset:
+**cleaned Dataset:**
 ![assets\cleaned dataset .png](https://github.com/Np2002/HR-Data-Analytics-HR-Domain/blob/ffcfe6c3fcf17b14002d5bef623a6b40a09c6f40/assets/cleaned%20dataset%20.png)
 
 
@@ -89,7 +89,6 @@ cleaned Dataset:
 - Tuesday and Wednesday show the highest WFH percentages
 - Monday has a slightly higher SL rate than other days
 - Most employees have over 90% attendance, with some showing higher WFH activity
-- Significant drops in attendance on specific dates (e.g., public holidays or patterns)
 
 ---
 
@@ -116,7 +115,7 @@ This project helped me:
 ## Dashboard Preview
 
 
-Final Dashboard Looks like :
+**Final Dashboard Looks like :**
 ![assets\dashboard screenshot.png](https://github.com/Np2002/HR-Data-Analytics-HR-Domain/blob/ffcfe6c3fcf17b14002d5bef623a6b40a09c6f40/assets/dashboard%20screenshot.png)
 
 
